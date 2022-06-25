@@ -1,4 +1,4 @@
-# NLP-Some-Libraries-Practice-Beginner
+# NLP Some Libraries Practice Beginner
 
 
 In this repository,
